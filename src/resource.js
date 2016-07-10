@@ -9,6 +9,17 @@ var res = {
     tile_5_png : "res/tile_5.png",
     tile_6_png : "res/tile_6.png",
     tile_7_png : "res/tile_7.png",
+    tule_8_png : "res/tile_8.png",
+    tule_9_png : "res/tile_9.png",
+    tule_10_png : "res/tile_10.png",
+    tule_11_png : "res/tile_11.png",
+    tule_12_png : "res/tile_12.png",
+    tule_13_png : "res/tile_13.png",
+    tule_14_png : "res/tile_14.png",
+    tule_15_png : "res/tile_15.png",
+    tule_16_png : "res/tile_16.png",
+    tule_17_png : "res/tile_17.png",
+
 };
 
 var g_resources = [];
